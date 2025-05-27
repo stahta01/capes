@@ -42,3 +42,4 @@ Icon
 fp-info-cache
 *-bak
 *.lck
+*.kicad_prl
